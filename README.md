@@ -1,19 +1,22 @@
 # MachineLearningCodes
 OVERVIEW: Aplicações de métodos de machine learning.
 
-1) Exemplos de aplicações utilizando os seguintes métodos, aplicando em algum dataset e usando Feature Importance:
+## 1) Estudos de Classical Machine Learning
 
-- PCA e LDA
-- Linear Regression
-- Logistic Regression
-- Nearest Neighbors
-- k Nearest Neighbors (KNN)
-- Decision Tree
-- Random Forest
-- Gradient Boosting
+  a) Exemplos de aplicações utilizando os seguintes métodos, aplicando em algum dataset e usando Feature Importance quando aplicável (Files 001 - 022):
 
-2) Estudos de Deep Learning
+    - PCA e LDA
+    - Linear Regression
+    - Logistic Regression
+    - Nearest Neighbors
+    - k Nearest Neighbors (KNN)
+    - Decision Tree
+    - Random Forest
+    - Gradient Boosting
 
-a) Gradiente Descendente (DL_001 - DL_004)
-  - 1D Gradiente Descendente
-  - 2D Gradiente Descendente
+## 2) Estudos de Deep Learning
+
+  a) Gradiente Descendente (Files: DL_001 - DL_004)
+  
+    - 1D Gradiente Descendente
+    - 2D Gradiente Descendente
