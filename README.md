@@ -14,5 +14,6 @@ OVERVIEW: Aplicações de métodos de machine learning.
 
 2) Estudos de Deep Learning
 
-- 1D Gradiente Descendente
-- 2D Gradiente Descendente
+a) Gradiente Descendente (DL_001 - DL_004)
+  - 1D Gradiente Descendente
+  - 2D Gradiente Descendente
